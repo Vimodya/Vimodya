@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamodi Liyanage</h1>
 <h3 align="center">A Undergraduate at University of Moratuwa.</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/drive/u/0/my-drive?q=parent:0APhV2Ypiw2kYUk9PVA%20after:2024-02-16%20owner:me">
+<img align="right" alt="Coding" width="400" src="[https://drive.google.com/drive/u/0/my-drive?q=parent:0APhV2Ypiw2kYUk9PVA%20after:2024-02-16%20owner:me](https://drive.google.com/drive/u/0/my-drive?q=parent:0APhV2Ypiw2kYUk9PVA%20after:2024-02-16%20owner:me)">
 
 - 🌱 I’m currently learning **NextJs,**
 
