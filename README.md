@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamodi Liyanage</h1>
 <h3 align="center">A Undergraduate at University of Moratuwa.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/premium-vector/image-illustration-material-young-woman-with-bright-expression-who-operates-pc_133841926.htm#query=cute%20cartoon%20girl%20withcomputer&position=8&from_view=search&track=ais&uuid=2ba86484-d813-4626-90ea-a5cd46232283">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/drive/u/0/my-drive?q=parent:0APhV2Ypiw2kYUk9PVA%20after:2024-02-16%20owner:me">
 
 - 🌱 I’m currently learning **NextJs,**
 
