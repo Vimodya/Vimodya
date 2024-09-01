@@ -2,9 +2,9 @@
 <h3 align="center">A Undergraduate at University of Moratuwa.</h3>
 
 
-- 🌱 I’m currently learning **NextJs,**
+- 🌱 I’m currently learning **.Net,**
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Java, React, NextJs**
 
 - 📫 How to reach me **chamodivimodya@gmail.com**
 
