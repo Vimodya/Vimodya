@@ -10,9 +10,9 @@
 ---
 
 ### 💡 About Me
-- 🌱 I’m currently diving deeper into **.NET** to broaden my backend skills.
-- 💬 Ask me anything about **Java**, **React**, **Next.js**, or web development in general!
-- 📫 Reach me at **chamodivimodya@gmail.com** for collaboration or just to say hi!
+- 🌱 I’m currently learning and doing a project in **.NET** to broaden my backend skills.
+- 💬 Ask me about **Java**, **React**, **Next.js**, or web development in general!
+- 📫 Reach me at **chamodivimodya@gmail.com** !
 
 ---
 
