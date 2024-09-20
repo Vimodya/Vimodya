@@ -35,7 +35,7 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🌐Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/chamodi-liyanage-8bb852270/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.hackerrank.com/profile/Chamodi_HM"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
