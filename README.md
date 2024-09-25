@@ -3,7 +3,7 @@
 
 <p align="center">
   <p align="center">
-  <img src="https://github.com/ruchithx/EventsNow/blob/dev/public/images/Event/post/heart-red%20.svg" width="100" alt="Developer at work"/>
+  <img src="https://github.com/Vimodya/project-Blog-App/blob/main/public/Smiley.svg.png" width="100" alt="Developer at work"/>
 </p>
 </p>
 
