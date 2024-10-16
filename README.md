@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Chamodi Liyanage</h1>
+<h1 align="center">I'm Chamodi Liyanage</h1>
 <h3 align="center" >IT Undergraduate at University of Moratuwa 💻 </h3>
 
 <p align="center">
