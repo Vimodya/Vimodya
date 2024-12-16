@@ -22,11 +22,6 @@
 
 ---
 
-### ⚙️ Languages & Tools
-
-
----
-
 ### 🌐Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/chamodi-liyanage-8bb852270/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
