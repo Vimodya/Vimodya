@@ -10,15 +10,9 @@
 ---
 
 ### 💡 About Me
-- 🌱 I’m currently learning and doing a project in **.NET** to broaden my backend skills.
-- 💬 Ask me about **Java**, **React**, **Next.js**, or web development in general!
+- 🌱 I’m reading for an IT degree and doing projects to broaden my technical skills.
+- 👷‍♀️I'm consistently seeking opportunities to enhance my skills in emerging technologies, with a strong passion for software engineering 
 - 📫 Reach me at **chamodivimodya@gmail.com** !
-
----
-
-### 🔭 Current Projects
-- 🛒 **Building an eCommerce platform** using **React** and **.NET**.
-- 🎯 Exploring **TypeScript** and **Next.js** for advanced full-stack applications.
 
 ---
 
