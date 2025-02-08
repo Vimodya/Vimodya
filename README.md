@@ -36,7 +36,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimodya&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
-Thank you for checking out my profile! Let's collaborate and create something amazing! 
 
